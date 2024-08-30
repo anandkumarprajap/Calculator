@@ -1,10 +1,8 @@
-## Calculator
-***simulation Link:***
+# Calculator
+***simulation Link: https://anandkumarprajap.github.io/Calculator/***
 
-
-
-# OverView
+## Overview
 This simple calculator can perform addition, subtraction, multiplication, and division 
 
-# PreView
+## Preview
 ![Calculator Screenshot](images/Addcal.png)
